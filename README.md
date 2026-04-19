@@ -1,0 +1,1 @@
+# Chrome-quick-Furigana-search-extension
