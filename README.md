@@ -1,2 +1,2 @@
-#Chrome-quick-Furigana-search-extension
+# Chrome-quick-Furigana-search-extension
 I am lazy that why
