@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Furigana Search",
+  "version": "1.0",
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
